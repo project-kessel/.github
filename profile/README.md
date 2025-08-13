@@ -1,1 +1,1 @@
-Open source, multi-app, B2B access management.
+Unify your APIs with fine-grained authorization, common inventory, and CloudEvents.
